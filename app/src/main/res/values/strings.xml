@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">davaleba6</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">First Name</string>
+    <string name="lastName_hint">Last Name</string>
+    <string name="age_hint">Age</string>
+    <string name="address_hint">Address</string>
+    <string name="save">Save</string>
+</resources>
